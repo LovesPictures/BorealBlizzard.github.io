@@ -1,2 +1,0 @@
-# BorealBlizzard.github.io
-README
