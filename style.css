@@ -5,17 +5,17 @@ h1 {color: rgb(32,194,14);
 		text-shadow: 0px 0px 4px rgb(48,112,14);
 	}
 	p { color: rgb(32,194,14);
-		text-shadow: 0px 0px 4px rgb(48,112,14); 
-	}
-	body { background-color: rgb(0,15,0) ; 
 		text-shadow: 0px 0px 4px rgb(48,112,14);
-		font-family: monospace;
-	}	
+	}
+		body { background-color: rgb(0,15,0) ;
+			text-shadow: 0px 0px 4px rgb(48,112,14);
+			font-family: monospace;
+	}
 	li { color: rgb(32,194,14);
 		text-shadow: 0px 0px 4px rgb(48,112,14);
 		font-family: monospace;
 	}
 	a { color: rgb(32,194,14);
 		text-shadow: 0px 0px 4px rgb(48,112,14);
-		font-family: monospace;	
+		font-family: monospace;
 	}
